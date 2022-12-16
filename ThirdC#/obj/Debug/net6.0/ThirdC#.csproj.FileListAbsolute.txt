@@ -1,0 +1,16 @@
+C:\Users\1\Desktop\Geek - C#\ThirdC#\bin\Debug\net6.0\ThirdC#.exe
+C:\Users\1\Desktop\Geek - C#\ThirdC#\bin\Debug\net6.0\ThirdC#.deps.json
+C:\Users\1\Desktop\Geek - C#\ThirdC#\bin\Debug\net6.0\ThirdC#.runtimeconfig.json
+C:\Users\1\Desktop\Geek - C#\ThirdC#\bin\Debug\net6.0\ThirdC#.dll
+C:\Users\1\Desktop\Geek - C#\ThirdC#\bin\Debug\net6.0\ThirdC#.pdb
+C:\Users\1\Desktop\Geek - C#\ThirdC#\obj\Debug\net6.0\ThirdC#.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Geek - C#\ThirdC#\obj\Debug\net6.0\ThirdC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Geek - C#\ThirdC#\obj\Debug\net6.0\ThirdC#.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Geek - C#\ThirdC#\obj\Debug\net6.0\ThirdC#.AssemblyInfo.cs
+C:\Users\1\Desktop\Geek - C#\ThirdC#\obj\Debug\net6.0\ThirdC#.ImplicitNamespaceImports.cs
+C:\Users\1\Desktop\Geek - C#\ThirdC#\obj\Debug\net6.0\ThirdC#.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Geek - C#\ThirdC#\obj\Debug\net6.0\ThirdC#.dll
+C:\Users\1\Desktop\Geek - C#\ThirdC#\obj\Debug\net6.0\refint\ThirdC#.dll
+C:\Users\1\Desktop\Geek - C#\ThirdC#\obj\Debug\net6.0\ThirdC#.pdb
+C:\Users\1\Desktop\Geek - C#\ThirdC#\obj\Debug\net6.0\ThirdC#.genruntimeconfig.cache
+C:\Users\1\Desktop\Geek - C#\ThirdC#\obj\Debug\net6.0\ref\ThirdC#.dll
